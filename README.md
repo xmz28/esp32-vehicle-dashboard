@@ -20,7 +20,7 @@
 请从 [GitHub Releases](https://github.com/xmz28/esp32-vehicle-dashboard/releases/latest) 下载最新版：
 
 - `firmware-0.1.5.bin`
-- `固件用户使用说明.md`
+- `firmware-user-guide-zh-CN.md`（固件用户使用说明）
 
 > `firmware-0.1.5.bin` 是应用固件，适合通过设备已有的 OTA 页面升级。全新空白 ESP32 首次烧录还需要 Bootloader、分区表和 OTA 数据分区。
 
@@ -79,4 +79,3 @@
 ## 项目状态
 
 此仓库当前用于发布固件、接线资料和用户文档，暂不包含完整源代码。
-
