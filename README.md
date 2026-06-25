@@ -66,7 +66,17 @@
 
 ## 实物照片
 
-`assets/photos/` 用于存放整机、屏幕、PCB 和安装效果照片。当前版本暂未加入清晰的实物照片。
+### 台架原型
+
+![ESP32 仪表台架原型](assets/photos/bench-dashboard.jpg)
+
+### 安装测试
+
+![ESP32 仪表安装测试](assets/photos/installed-dashboard.jpg)
+
+### 蓝牙音乐页面
+
+![ESP32 仪表蓝牙音乐页面](assets/photos/music-player.jpg)
 
 ## 重要安全说明
 
